@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nephy\\OneDrive - De Vinci\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\",
+  "WorkspaceRootPath": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nephy\\OneDrive - De Vinci\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\PanelController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PanelController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|c:\\users\\hrobi\\documents\\github\\projet-efficience-vr\\projet-efficience-vr-game\\assets\\shaders\\inchallah.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\inchallah.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PanelController.cs",
-              "DocumentMoniker": "C:\\Users\\nephy\\OneDrive - De Vinci\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\PanelController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PanelController.cs",
-              "ToolTip": "C:\\Users\\nephy\\OneDrive - De Vinci\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\PanelController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PanelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:51:06.657Z",
+              "Title": "Inchallah.shader",
+              "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Shaders\\Inchallah.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Inchallah.shader",
+              "ToolTip": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Shaders\\Inchallah.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Inchallah.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-01-03T22:29:39.636Z",
               "EditorCaption": ""
             }
           ]

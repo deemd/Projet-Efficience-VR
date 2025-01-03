@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 45627b4c5e569924b878dd71248ff709
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum Brushed #1
+    second: {fileID: 2100000, guid: ae9cada0cb7c1dc40b2b1d4d62d90784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum Rough
+    second: {fileID: 2100000, guid: 8d46be86be1517a40ab5320a866a4d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum Rough #1
+    second: {fileID: 2100000, guid: 3454c58767add19408b63fd140b87c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum Rough #2
+    second: {fileID: 2100000, guid: f2e33b86fd06e9e408b408453963cf74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized Rough Black
+    second: {fileID: 2100000, guid: 1626865dc5115db4fbb6cc7943266799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized Rough Black #1
+    second: {fileID: 2100000, guid: 0d787806d2613ba4aa96be4b0ecbbcd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized Rough Black #2
+    second: {fileID: 2100000, guid: 5e0b05782fded1f46a7c78b7ecd04993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized Rough Grey
+    second: {fileID: 2100000, guid: 446e1a6ccf7c1de4397390ce9929df16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized Rough Grey #1
+    second: {fileID: 2100000, guid: f19c99beb41143d448a78c1b9d646d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized Rough Orange
+    second: {fileID: 2100000, guid: fddb8efcc79755a43b189d368252b007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized Rough Red
+    second: {fileID: 2100000, guid: b94d4748875306446b1161d4b0c3f8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized Rough Red #1
+    second: {fileID: 2100000, guid: c24d7fa84dfadb44db0740349a0c4692, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CANON DE REGLAGE TETE DE PIVOT_color_95_95_95
+    second: {fileID: 2100000, guid: 875a662c73c3809489e6bc5e89b4c1fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CANON SOUDE FILETE SC-R POUR UNIBAL D8_color_0_255_0
+    second: {fileID: 2100000, guid: 44b6b5f3e8737844f8c7015d0a19e285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CANON SOUDE FILETE SC-R POUR UNIBAL D8_color_95_95_95
+    second: {fileID: 2100000, guid: d30f1992597fe724fb828bb649bf8bc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHAPE FILETE SC-R POUR UNIBAL D8_color_0_255_0
+    second: {fileID: 2100000, guid: 38a9c10820b974d4a984b92997a49028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORPS ROTULE UNIBAL D8_color_210_210_255
+    second: {fileID: 2100000, guid: 119dd373caaee0e43bdf67693acc0238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COUSSINET A COLLERETTE TEFLON_color_128_0_0
+    second: {fileID: 2100000, guid: 6d46d68c2ba50d94c949125f54d380f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Fiber Gloss
+    second: {fileID: 2100000, guid: a64fbcd5220c56e4e8059200a4df272f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Fiber Gloss #1
+    second: {fileID: 2100000, guid: 708358755113e224391611edc50e4dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Fiber Gloss #2
+    second: {fileID: 2100000, guid: adaaf1f927e3522438b21d4706e6640b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Fiber Gloss #4
+    second: {fileID: 2100000, guid: 360ba8880e2d507408bcc74b1ab871c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Fiber Gloss #5
+    second: {fileID: 2100000, guid: c548d0de8ba55bd4c907810685d46e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Black
+    second: {fileID: 2100000, guid: 7ddec2617ffa8e44686b3f35d3f9c690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Black #1
+    second: {fileID: 2100000, guid: 5f0efca18f4d85648b95517aa00d87ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Black #2
+    second: {fileID: 2100000, guid: efecefc134b90d74f8aae26f78900b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Black #4
+    second: {fileID: 2100000, guid: 86ddfa7ce3b4f2b4b897bffb7c721306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Black #6
+    second: {fileID: 2100000, guid: 5e0f28a3124d46647b72998c9287960e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Black #7
+    second: {fileID: 2100000, guid: c565e207afccd2846971029f97832793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Black #8
+    second: {fileID: 2100000, guid: c98f39bebfa7ba14db0138805f508380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ECROU CENTRAL_color_0_0_255
+    second: {fileID: 2100000, guid: a30c4c71719468e428b13a4692dcd084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Basic White
+    second: {fileID: 2100000, guid: 80a53154041eba9419c385bd9c0dfceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold 24k_
+    second: {fileID: 2100000, guid: 12eb27c7f37797f4da6124b310b631c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hard Shiny Plastic Red
+    second: {fileID: 2100000, guid: 57d44a6fe60e34241a2b91bad94376a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISO 10642 SCREW M5x30 STEEL HEXAGON SOCKET COUNTERSUNK HEAD_color_130_170_214
+    second: {fileID: 2100000, guid: 662d1acff2eff7b478f5e74c08fca1ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISO 4014 BOLT M10x45 STEEL GRADE A HEXAGON HEAD_color_130_170_214
+    second: {fileID: 2100000, guid: 88ec1ab560e758f4a860c3fab02dc4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISO 4762 SCREW M5x8 STEEL HEXAGON SOCKET HEAD CAP_color_130_170_214
+    second: {fileID: 2100000, guid: 9c75bd3687db4c7478fcd3404a5075a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISO 7093-2 WASHER 10x30.0 STEEL GRADE C PLAIN LARGE SERIES_color_130_170_214
+    second: {fileID: 2100000, guid: cf2010a84cd4589499c61f2595367c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE_color_130_170_214
+    second: {fileID: 2100000, guid: 29d42803c8d844b4d8987797bc6d8cc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JANTE AR SHELL ECO MARATHON_color_50_50_50
+    second: {fileID: 2100000, guid: b7fd0e254ef34bc4aa4fc4289bfeeab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MOYEU DE ROUE SHELL ECO MARATHON_color_40_40_40
+    second: {fileID: 2100000, guid: b8950db2a3f3120489a66bb69c4465a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MOYEU DE ROUE SHELL ECO MARATHON_color_50_50_50
+    second: {fileID: 2100000, guid: d4fc5ceb2037884459817b52fd6188a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nylon Fabric Black #1
+    second: {fileID: 2100000, guid: 18db57d75d355fa48bf0af44ef148515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PEDONCULE VENTRAL D_color_210_210_255
+    second: {fileID: 2100000, guid: 25f6d6b4b731a864bbe41ee36d5daf6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PEDONCULE VENTRAL_color_210_210_255
+    second: {fileID: 2100000, guid: 9825e86f64c0f4e4a9c50a656d29934c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PNEU MICHELIN 17 POUCES_color_210_210_255
+    second: {fileID: 2100000, guid: 39ccb9dc0754e83449811c0cce9b4ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PNEU MICHELIN 17 POUCES_color_255_255_255
+    second: {fileID: 2100000, guid: 19007432f0f88de4e9bd9bb2f8adfe0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PORTE MOYEU AR ALU_color_0_0_255
+    second: {fileID: 2100000, guid: 7fa567930d1858e44a87c70abde33bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PORTE MOYEU AR ALU_color_0_128_0
+    second: {fileID: 2100000, guid: e471a6a7d676fd94babcdf42551318b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PORTE MOYEU AR ALU_color_0_255_0
+    second: {fileID: 2100000, guid: 62a6e073b99e95742841b63bc039f511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PORTE MOYEU AR ALU_color_255_255_0
+    second: {fileID: 2100000, guid: 63f39322e8ddc2b4489c5014aac70227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PROPOSITION SC-1_color_95_95_95
+    second: {fileID: 2100000, guid: 935577725ef222b428d978e7b5faf61e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint Matte Grey
+    second: {fileID: 2100000, guid: 18b9d6f84e89524438842157746cf25b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint Matte Grey #1
+    second: {fileID: 2100000, guid: 916d99866d4f17d4f990034539694292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint Matte Grey #2
+    second: {fileID: 2100000, guid: 220ea70da1c40524e8c19df2d7799b28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROULEMENT ROUE BONTRAGER LLB 18X30X7_color_210_210_255
+    second: {fileID: 2100000, guid: c3d3072ddb2749f42b8bc822847d92dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: 08650c506d88f1a458b2007fcbf2e136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shiny Cloudy Plastic White
+    second: {fileID: 2100000, guid: 789206f55169a0141a3e1f4fb11328ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soft Shiny Red
+    second: {fileID: 2100000, guid: 9dda77cde26eb94478d9a49b196313ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless Steel Brushed Light
+    second: {fileID: 2100000, guid: af543c1a7be2cca4d92ee1e1d16d3315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel Knurled Rough #1
+    second: {fileID: 2100000, guid: 27d10661f84d90b4ca359b2799327d25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel Rougher
+    second: {fileID: 2100000, guid: 072f06c9f2e56a24ea03a5733202e030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel Rougher #1
+    second: {fileID: 2100000, guid: 16ecc599b908018409c1fcef125251a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel Rougher #2
+    second: {fileID: 2100000, guid: 3a83c52c141a0874b9f0752d86a3e0d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel Rougher #3
+    second: {fileID: 2100000, guid: 9be15cf49bb0e5b4aac0ccfeb3e85550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire
+    second: {fileID: 2100000, guid: ae6e3fd4716b2cd46bd930f0cabe081f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VOLANT SHELL ECO MARATHON_color_128_0_0
+    second: {fileID: 2100000, guid: b531a3037154db44eb079119ced1ff07, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

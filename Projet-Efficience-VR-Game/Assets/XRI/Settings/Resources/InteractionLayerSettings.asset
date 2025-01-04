@@ -17,16 +17,16 @@ MonoBehaviour:
   - Interactable
   - Interactable Ignore Ray
   - Teleport
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Interactable Capot Avant
+  - Interactable Capot Arriere
+  - Interactable Volant
+  - Interactable Pedalier
+  - Interactable Liquide Frein
+  - Interactable Roue -Cache
+  - Interactable Roue -Pneu Jante
+  - Interactable Roue -Disc Rotor
+  - Interactable Roue -Moyeu Culliper
+  - Interactable Train Avant
   - 
   - 
   - 

@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VRScene-ExternView.unity
     guid: c9e98956bcc52b9489fac5b4d3e16b48
+  - enabled: 1
+    path: Assets/Scenes/VRScene-InternView.unity
+    guid: 361378340cc71a549af5d45068f687ab
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6d9a601613c7ed04583a76b1faca45bd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6f6a9fe193154a8459bdefdc56b3c69b, type: 2}

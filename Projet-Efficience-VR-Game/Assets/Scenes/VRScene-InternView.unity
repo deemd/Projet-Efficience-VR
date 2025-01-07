@@ -990,7 +990,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 29184227775121210, guid: e49cce2cc3663de4c84ee49fefa52ea3, type: 3}
       propertyPath: m_Name
-      value: Arrow_Icon_05
+      value: Intern Scene Changer Icon
       objectReference: {fileID: 0}
     - target: {fileID: 805157290006338944, guid: e49cce2cc3663de4c84ee49fefa52ea3, type: 3}
       propertyPath: m_LocalScale.x
@@ -1051,6 +1051,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 29184227775121210, guid: e49cce2cc3663de4c84ee49fefa52ea3, type: 3}
       insertIndex: -1
       addedObject: {fileID: 424414528}
+    - targetCorrespondingSourceObject: {fileID: 29184227775121210, guid: e49cce2cc3663de4c84ee49fefa52ea3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 424414529}
   m_SourcePrefab: {fileID: 100100000, guid: e49cce2cc3663de4c84ee49fefa52ea3, type: 3}
 --- !u!4 &424414526 stripped
 Transform:
@@ -1078,6 +1081,126 @@ MonoBehaviour:
   translationSpeed: 1
   minHeight: 0
   maxHeight: 0.1
+--- !u!114 &424414529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 424414527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a35f6cfbfba9b548aaa00d52cfe8a50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_InteractionManager: {fileID: 1851914303}
+  m_Colliders:
+  - {fileID: 424414530}
+  m_InteractionLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_InteractionLayers:
+    m_Bits: 2
+  m_DistanceCalculationMode: 1
+  m_SelectMode: 0
+  m_FocusMode: 1
+  m_CustomReticle: {fileID: 0}
+  m_AllowGazeInteraction: 0
+  m_AllowGazeSelect: 0
+  m_OverrideGazeTimeToSelect: 0
+  m_GazeTimeToSelect: 0.5
+  m_OverrideTimeToAutoDeselectGaze: 0
+  m_TimeToAutoDeselectGaze: 3
+  m_AllowGazeAssistance: 0
+  m_FirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectEntered:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1765517690}
+        m_TargetAssemblyTypeName: SceneChanger, Assembly-CSharp
+        m_MethodName: LoadSceneByName
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Scenes/VRScene-ExternView
+          m_BoolArgument: 0
+        m_CallState: 2
+  m_SelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstFocusEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastFocusExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FocusEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FocusExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Activated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Deactivated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_StartingHoverFilters: []
+  m_StartingSelectFilters: []
+  m_StartingInteractionStrengthFilters: []
+  m_OnFirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnLastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectCanceled:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnActivate:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnDeactivate:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!64 &424414530 stripped
+MeshCollider:
+  m_CorrespondingSourceObject: {fileID: 6050814787294554038, guid: e49cce2cc3663de4c84ee49fefa52ea3, type: 3}
+  m_PrefabInstance: {fileID: 424414525}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &442278476
 GameObject:
   m_ObjectHideFlags: 0
@@ -2497,8 +2620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 970a1dd396926f24db4abb1246da2a99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  leftControllerGameObject: {fileID: 1401989690}
-  targetSceneName: VRScene-ExternView
 --- !u!4 &1765517691
 Transform:
   m_ObjectHideFlags: 0

@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|c:\\users\\hrobi\\documents\\github\\projet-efficience-vr\\projet-efficience-vr-game\\assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|c:\\users\\hrobi\\documents\\github\\projet-efficience-vr\\projet-efficience-vr-game\\assets\\scripts\\internscenechangericon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\internscenechangericon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|c:\\users\\hrobi\\documents\\github\\projet-efficience-vr\\projet-efficience-vr-game\\assets\\scripts\\externscenechangericon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\assets\\scripts\\externscenechangericon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\externscenechangericon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|c:\\users\\hrobi\\documents\\github\\projet-efficience-vr\\projet-efficience-vr-game\\assets\\shaders\\inchallah.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\assets\\shaders\\inchallah.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\inchallah.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:30:35.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InternSceneChangerIcon.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\InternSceneChangerIcon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InternSceneChangerIcon.cs",
               "ToolTip": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\InternSceneChangerIcon.cs",
               "RelativeToolTip": "Assets\\Scripts\\InternSceneChangerIcon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T08:51:47.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ExternSceneChangerIcon.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\ExternSceneChangerIcon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExternSceneChangerIcon.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ExternSceneChangerIcon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T08:51:34.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T08:51:34.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Inchallah.shader",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Shaders\\Inchallah.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\Inchallah.shader",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Assets\\Shaders\\Inchallah.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-01-03T22:29:39.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T22:29:39.636Z"
             }
           ]
         }

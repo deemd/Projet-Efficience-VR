@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ExternSceneChangerIcon : MonoBehaviour
+public class InternSceneChangerIcon : MonoBehaviour
 {
     #region Attributes
     public float rotationSpeed = 10f; // Rotation speed
@@ -23,8 +23,8 @@ public class ExternSceneChangerIcon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Rotation on X axis (Local coordinates)
-        transform.Rotate(rotationSpeed, 0, 0);
+        // Rotation on Y axis (Local coordinates)
+        transform.Rotate(0, rotationSpeed, 0);
 
         // Translation on Y axis (Global coordinates)
         float oscillation = Mathf.Sin(Time.time * translationSpeed); // Oscillation sinusoïdale

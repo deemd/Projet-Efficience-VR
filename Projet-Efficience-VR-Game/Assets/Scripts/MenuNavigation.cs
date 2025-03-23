@@ -28,12 +28,12 @@ public class MenuNavigation : MonoBehaviour
 
     public void LoadSceneExternView()
     {
-        SceneManager.LoadScene("VRScene-ExternView");
+        SceneManager.LoadScene("Scenes/VRScene-ExternView");
     }
 
     public void LoadSceneInternView()
     {
-        SceneManager.LoadScene("VRScene-InternView");
+        SceneManager.LoadScene("Scenes/VRScene-InternView");
     }
 
     private void ShowPanel(int index)

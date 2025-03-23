@@ -15,6 +15,7 @@ public class LookTowards : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       // this.transform.LookAt(target.transform);
+        // this.transform.LookAt(target.transform);
+        this.transform.LookAt(target.transform);
     }
 }

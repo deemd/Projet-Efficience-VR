@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\assets\\scripts\\looktowards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|c:\\users\\hrobi\\documents\\github\\projet-efficience-vr\\projet-efficience-vr-game\\assets\\scripts\\lookat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lookat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|c:\\users\\hrobi\\documents\\github\\projet-efficience-vr\\projet-efficience-vr-game\\assets\\scripts\\looktowards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\looktowards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|c:\\users\\hrobi\\documents\\github\\projet-efficience-vr\\projet-efficience-vr-game\\assets\\scripts\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\assets\\scripts\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA4845A-77C2-E76A-E32D-165088ABCC38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LookAt.cs",
+              "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\LookAt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LookAt.cs",
+              "ToolTip": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\LookAt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LookAt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:22:47.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LookTowards.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\LookTowards.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LookTowards.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuNavigation.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\MenuNavigation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuNavigation.cs",
@@ -75,12 +92,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MenuNavigation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:00:19.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:00:19.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TrackedPoseDriver.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\XR\\TrackedPoseDriver.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\XR\\TrackedPoseDriver.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "XRInteractionManager.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\XRInteractionManager.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\XRInteractionManager.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PanelToggle.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\PanelToggle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PanelToggle.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "XRRayInteractor.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Interactors\\XRRayInteractor.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Interactors\\XRRayInteractor.cs",
@@ -128,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HoverMaterialChanger.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\HoverMaterialChanger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HoverMaterialChanger.cs",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "InternSceneChangerIcon.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\InternSceneChangerIcon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InternSceneChangerIcon.cs",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ExternSceneChangerIcon.cs",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Scripts\\ExternSceneChangerIcon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExternSceneChangerIcon.cs",
@@ -164,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Inchallah.shader",
               "DocumentMoniker": "C:\\Users\\hrobi\\Documents\\GitHub\\Projet-Efficience-VR\\Projet-Efficience-VR-Game\\Assets\\Shaders\\Inchallah.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\Inchallah.shader",

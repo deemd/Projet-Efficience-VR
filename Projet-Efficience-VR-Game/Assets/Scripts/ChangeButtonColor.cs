@@ -2,7 +2,6 @@ using Nova;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Nova;
 using UnityEngine.XR.Interaction.Toolkit;
 
 public class ChangeButtonColor : MonoBehaviour
